@@ -4,7 +4,7 @@
 # data-cleaning-pandas
 Are shark sexist and attack more females than male!?
 
-The objective of this file is to clean a very complicated raw data set with an astonishing amount of useless columns and rows that, after a deep cleaning, provides over 6000 rows of useful data that can and will be used to answer our hypothesis.
+The objective of this file is to clean a very convoluted raw data set with an astonishing amount of useless columns and rows that, after a deep cleaning, provides 6000 rows of useful data that will be used to answer our hypothesis from the starting 27000 rows.
 
 # Readme structure:
 
@@ -30,6 +30,8 @@ Inside the **visualization** file you will be able to see the hypothesis results
 
 ### Raw data set
 
+Source:Kaggle
+Raw data set name: Global Shark Attacks
 The raw data set that we used contains different encounters between humans and sharks that resulted in unfortunate attacks.
 
 The cleaning of this data set was done in different steps that we will mention briefly, but they are shown in dept in the **cleaning_data** file.
